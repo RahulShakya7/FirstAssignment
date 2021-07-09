@@ -41,10 +41,11 @@
 # maxx()
 #
 # 3)
-# def arg(name, age):
-#     print(name, age)
-#
-# arg("Hally", 34)
+def arg(name, age):
+    print(name, age)
+
+
+arg("Hally", 34)
 #
 # 4)
 # def min():
